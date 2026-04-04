@@ -1,3 +1,4 @@
+Source: Kim et al. WSDM 2021
 1. Model Description
 Two OLS regression approaches were applied to predict post-level engagement rate (likes + comments/followers) across 9,737 Instagram beauty influencer posts.
 
