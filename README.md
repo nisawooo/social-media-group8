@@ -18,6 +18,6 @@ Engagement rate is partly shaped by Instagram's algorithm, which the model canno
 
 
 4. Limitations
-R² values are low (0.013–0.033), content features explain only a small share of engagement variance; posting time, trends, and algorithm state are not captured
+R² values are low (0.018-0.033), content features explain only a small share of engagement variance; posting time, trends, and algorithm state are not captured
 Correlation only face presence predicting higher engagement does not mean adding a face will causally increase engagement
 Cross-sectional design; it does not capture how strategies evolve over time
